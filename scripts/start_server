@@ -1,3 +1,4 @@
 #!/bin/bash
-service httpd start
+#service httpd start
+docker run -p 80:8000 a79e99ca0c96
 
